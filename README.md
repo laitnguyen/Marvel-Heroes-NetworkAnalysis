@@ -13,6 +13,9 @@ Analyze the robustness of Marvel heroes network.
 **RESEACH QUESTIONS**
 
 How many communities/clusters are presented in the network?
+
 Who are the top heroes in the Marvel Universe? (Top 100, Top 30 heroes )
+
 Who are the connectors in the Marvel Universe?
+
 How strong is the Marvel heroes network? (Analyze the network robustness)
