@@ -7,7 +7,9 @@ Marvel Universe is a fictional universe created by Stan Lee and other artists si
 By conducting this project, we wanted to use the concepts learned in the class regrading Graph Theory to do a social network analysis on Marvel Universe. In particular, the project's objectives includes:
 
 Produce graphs to demonstrate the connections among superheroes.
+
 Identify any communities/clusters within Marvel Universe according to the features provided.
+
 Analyze the robustness of Marvel heroes network.
 
 **RESEACH QUESTIONS**
